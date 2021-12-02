@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import "TTTAttributedLabel.h"
+#import "Public/TTTAttributedLabel.h"
 
 #import <QuartzCore/QuartzCore.h>
 #import <Availability.h>
